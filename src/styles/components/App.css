@@ -1,13 +1,10 @@
 
 body {
-  background-color: green;
-
+  background-color: yellow;
 }
 
 
-.app-footer {
-  position: absolute;
-  bottom: 0;
-  background-color: yellow;
+.footer {
+  background-color: green;
   text-align: center;
 }
